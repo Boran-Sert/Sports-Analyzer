@@ -35,7 +35,8 @@
 > [!TIP]
 > **Showcase Note**: This repository is a marketing showcase. Core proprietary algorithms have been abstracted or simplified.
 
-*(Add your high-resolution dashboard screenshots here)*
+![Dashboard Preview 1](1.png)
+![Dashboard Preview 2](2.png)
 
 ---
 
