@@ -7,7 +7,7 @@
 
 ---
 
-[![Tech Stack](https://img.shields.io/badge/Stack-FastAPI%20%7C%20Next.js%20%7C%20Redis%20%7C%20PostgreSQL-blue)](https://github.com/Boran-Sert/Sports-Analyzer)
+[![Tech Stack](https://img.shields.io/badge/Stack-FastAPI%20%7C%20Next.js%20%7C%20Redis%20%7C%20MongoDB-green)](https://github.com/Boran-Sert/Sports-Analyzer)
 [![License](https://img.shields.io/badge/License-Proprietary-red)](LICENSE)
 
 ## 🌐 Introduction / Giriş
@@ -63,6 +63,7 @@
 **Proprietary / All Rights Reserved (Tüm Hakları Saklıdır)**
 
 **EN:** This repository is for **showcase purposes only**. Unauthorized use, reproduction, or distribution of this code is strictly prohibited.
+
 **TR:** Bu depo sadece **gösterim amaçlıdır**. Bu kodun izinsiz kullanımı, çoğaltılması veya dağıtılması kesinlikle yasaktır.
 
 ---
