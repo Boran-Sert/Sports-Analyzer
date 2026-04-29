@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+motor
+redis
+pydantic-settings
+pydantic[email]
+apscheduler
+httpx
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
+orjson
+aiofiles
