@@ -30,10 +30,8 @@ dist/
 # misc
 *.pem
 *.log
-*.png
 *.jpg
 *.jpeg
-"Ekran görüntüsü *.png"
 
 # project specific
 scratch/
