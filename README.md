@@ -1,71 +1,80 @@
-# 🏆 Sports-Analyzer: Professional Match Intelligence Engine
+<div align="center">
+  <!-- LOGO VEYA BANNER BURAYA EKLENECEK -->
+  <a href="https://macmetrik.net">
+    <img src="https://via.placeholder.com/800x200.png?text=MacMetrik.net+Banner+Gorseli+Buraya" alt="MacMetrik Banner">
+  </a>
 
-> [!IMPORTANT]
-> 🚧 **Under Development / Geliştirme Aşamasında**  
-> **EN:** This project is currently in active development. Stay tuned for the official release!  
-> **TR:** Bu proje şu anda aktif olarak geliştirilmektedir. Resmi sürüm için takipte kalın!
+  <br />
+  <br />
+  
+  # 🚀 MacMetrik.net - Yeni Nesil Spor Analiz Platformu
+  
+  **Kazanmaya Giden Yolda En Büyük Yardımcınız!**
 
----
-
-[![Tech Stack](https://img.shields.io/badge/Stack-FastAPI%20%7C%20Next.js%20%7C%20Redis%20%7C%20MongoDB-green)](https://github.com/Boran-Sert/Sports-Analyzer)
-[![License](https://img.shields.io/badge/License-Proprietary-red)](LICENSE)
-
-## 🌐 Introduction / Giriş
-
-**EN:** **Sports-Analyzer** is a high-performance, data-driven match analysis platform designed to identify historical patterns in sports betting markets. By utilizing advanced similarity algorithms, it bridges the gap between historical data and upcoming match predictions.
-
-**TR:** **Sports-Analyzer**, spor bahis pazarlarındaki tarihsel örüntüleri belirlemek için tasarlanmış yüksek performanslı, veri odaklı bir maç analiz platformudur. Gelişmiş benzerlik algoritmaları kullanarak tarihsel veriler ile gelecek maç tahminleri arasında bir köprü kurar.
+  [![Web Sitesini Ziyaret Et](https://img.shields.io/badge/Web_Sitesi-MacMetrik.net-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://macmetrik.net)
+</div>
 
 ---
 
-## ✨ Key Features / Temel Özellikler
+## 🌟 Neden MacMetrik?
 
-- 🎯 **Pattern Matching Engine / Örüntü Eşleştirme Motoru**: 
-  - **EN:** Uses multidimensional Euclidean distance algorithms to find historical matches with similar odds profiles.
-  - **TR:** Benzer oran profillerine sahip geçmiş maçları bulmak için çok boyutlu Öklid mesafesi algoritmalarını kullanır.
-- 📊 **Historical Deep-Dive / Derinlemesine Geçmiş Analizi**: 
-  - **EN:** Analyzes thousands of past matches to provide statistical probabilities for FH goals, corners, and cards.
-  - **TR:** İlk yarı golleri, kornerler ve kartlar için istatistiksel olasılıklar sağlamak amacıyla binlerce geçmiş maçı analiz eder.
-- ⚡ **Real-time Ingestion / Gerçek Zamanlı Veri Akışı**: 
-  - **EN:** Automated pipelines for fetching live odds and match data via premium APIs.
-  - **TR:** Premium API'ler aracılığıyla canlı oranları ve maç verilerini çekmek için otomatik veri hatları.
-- 🚀 **Performance Optimized / Performans Odaklı**: 
-  - **EN:** Multi-layered caching with Redis and async background workers.
-  - **TR:** Redis ile çok katmanlı önbelleğe alma ve asenkron arka plan çalışanları.
+MacMetrik.net, futbol ve diğer spor müsabakaları için geliştirilmiş, detaylı istatistik ve gelişmiş yapay zeka destekli analizler sunan bir platformdur. Doğru tahminler yapmak ve riskleri en aza indirmek için ihtiyacınız olan tüm veriler burada.
 
----
+<br />
 
-## 🛠️ Technical Architecture / Teknik Mimari
+<!-- EKRAN GÖRÜNTÜSÜ VEYA ÖZELLİK GÖRSELİ BURAYA EKLENECEK -->
+<div align="center">
+  <img src="https://via.placeholder.com/600x350.png?text=Platformdan+Bir+Ekran+Goruntusu+Buraya" alt="Uygulama Ekran Görüntüsü">
+</div>
 
-### Backend (Python/FastAPI)
-- **Domain Driven Design (DDD)**: Clean architecture with clear separation between Repositories, Services, and Controllers.
-- **Async Processing**: Leverages Python's `asyncio` for non-blocking I/O operations.
-- **Robust Telemetry**: Integrated logging and performance monitoring middleware.
+<br />
 
-### Frontend (Next.js/React)
-- **Responsive Dashboard**: A data-dense, mobile-friendly UI built with Tailwind CSS.
-- **Real-time Updates**: Interactive tables and filters for seamless data exploration.
+### 🔥 Öne Çıkan Özelliklerimiz
+
+- 📊 **Detaylı İstatistikler:** Geçmiş maç analizleri, takım form durumları, sakat ve cezalı oyuncu bilgileri.
+- 🤖 **Yapay Zeka Destekli Tahminler:** Gelişmiş algoritmalar ile hesaplanmış maç tahminleri.
+- ⚡ **Canlı Analizler:** Maç sırasında anlık değişen oranlara ve aksiyona göre güncellenen veriler.
+- 📱 **Mobil Uyumlu Kullanım:** İster bilgisayarda, ister telefonda her an yanınızda.
 
 ---
 
-## 📸 Preview / Önizleme
+## 🎯 Ne Tür Veriler Sunuyoruz?
 
-> [!TIP]
-> **Showcase Note**: This repository is a marketing showcase. Core proprietary algorithms have been abstracted or simplified.
+<div align="center">
+  <!-- HİZMETLERİ ANLATAN YAN YANA GÖRSELLER -->
+  <img src="https://via.placeholder.com/250x150.png?text=Alt/Ust+Analizi" width="30%">
+  <img src="https://via.placeholder.com/250x150.png?text=Korner+Tahminleri" width="30%">
+  <img src="https://via.placeholder.com/250x150.png?text=Taraf+Bahsi" width="30%">
+</div>
 
-![Dashboard Preview 1](/mics/1.png)
-![Dashboard Preview 2](/mics/2.png)
+<br />
+
+| Özellik | Açıklama |
+|---|---|
+| **Gol Analizleri** | Alt/Üst ve Karşılıklı Gol olasılıklarını geçmiş verilere göre detaylı analiz eder. |
+| **Korner/Kart İstatistikleri** | Maçlardaki agresiflik ve korner potansiyelini takım dinamiklerine göre ölçer. |
+| **Sürpriz Tahminler** | Yüksek oranlı, potansiyel barındıran ancak gözden kaçan detayları sizin için bulur. |
 
 ---
 
-## 📜 License / Lisans
+## 🚀 Hemen Başlayın!
 
-**Proprietary / All Rights Reserved (Tüm Hakları Saklıdır)**
+Kazanmaya başlamak için daha fazla beklemeyin. MacMetrik.net'i ziyaret edin ve maçların arka planındaki gerçek verilerle analiz stratejinizi güçlendirin!
 
-**EN:** This repository is for **showcase purposes only**. Unauthorized use, reproduction, or distribution of this code is strictly prohibited.
+<br />
 
-**TR:** Bu depo sadece **gösterim amaçlıdır**. Bu kodun izinsiz kullanımı, çoğaltılması veya dağıtılması kesinlikle yasaktır.
+<div align="center">
+  
+  ### 👉 [www.macmetrik.net](https://macmetrik.net) 👈
+  
+  <br />
+  
+  <!-- UYGULAMA İNDİRME BUTONLARI VEYA YÖNLENDİRME GÖRSELİ (Opsiyonel) -->
+  <a href="https://macmetrik.net">
+    <img src="https://via.placeholder.com/300x80.png?text=Hemen+Giris+Yap+Veya+Kesfet" alt="Giriş Yap">
+  </a>
+  
+</div>
 
 ---
-
-Developed with ❤️ by [Boran Sert](https://github.com/Boran-Sert)
+*Not: Bu depo, **[MacMetrik.net](https://macmetrik.net)** platformunun tanıtımı amacıyla oluşturulmuştur.*
