@@ -1,58 +1,18 @@
-__pycache__/
-*.pyc
-*.pyo
-data/
-.env
-*.csv
-.DS_Store
-Thumbs.db
-.streamlit/secrets.toml
-venv/
-.venv/
+# ==============================================================
+# GÜVENLİK ÖNLEMİ: KODLARIN ÇALINMAMASI İÇİN ALINAN ÖNLEM
+# Bu depo yalnızca "macmetrik.net" reklamı amaçlı olduğu için
+# yerel bilgisayarınızdaki HİÇBİR kod dosyası Git tarafından 
+# takip edilmeyecek ve GitHub'a YÜKLENMEYECEKTİR.
+# ==============================================================
 
-# dependencies
-node_modules/
-.pnp/
-.pnp.*
-.yarn/*
+# 1. Her şeyi yoksay (hiçbir dosya GitHub'a gitmesin)
+*
 
-# testing
-coverage/
+# 2. Sadece reklam ve yasal uyarı dosyalarına izin ver
+!/.gitignore
+!/README.md
+!/LICENSE
 
-# next.js
-.next/
-out/
-
-# production
-build/
-dist/
-
-# misc
-*.pem
-*.log
-*.jpg
-*.jpeg
-
-# project specific
-scratch/
-a.py
-clear_completed_matches.py
-implementation_plan.md
-task.md
-walkthrough.md
-
-# debug
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-.pnpm-debug.log*
-
-# env files
-.env*
-
-# vercel
-.vercel
-
-# typescript
-*.tsbuildinfo
-next-env.d.ts
+# 3. Reklam fotoğraflarının bulunduğu klasöre izin ver
+!/mics/
+!/mics/**

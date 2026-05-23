@@ -1,7 +1,7 @@
 <div align="center">
   <!-- LOGO VEYA BANNER BURAYA EKLENECEK -->
   <a href="https://macmetrik.net">
-    <img src="https://via.placeholder.com/800x200.png?text=MacMetrik.net+Banner+Gorseli+Buraya" alt="MacMetrik Banner">
+    <img src="mics/1.png" alt="MacMetrik Banner">
   </a>
 
   <br />
@@ -24,7 +24,7 @@ MacMetrik.net, futbol ve diğer spor müsabakaları için geliştirilmiş, detay
 
 <!-- EKRAN GÖRÜNTÜSÜ VEYA ÖZELLİK GÖRSELİ BURAYA EKLENECEK -->
 <div align="center">
-  <img src="https://via.placeholder.com/600x350.png?text=Platformdan+Bir+Ekran+Goruntusu+Buraya" alt="Uygulama Ekran Görüntüsü">
+  <img src="mics/2.png" alt="Uygulama Ekran Görüntüsü" width="80%">
 </div>
 
 <br />
@@ -42,9 +42,8 @@ MacMetrik.net, futbol ve diğer spor müsabakaları için geliştirilmiş, detay
 
 <div align="center">
   <!-- HİZMETLERİ ANLATAN YAN YANA GÖRSELLER -->
-  <img src="https://via.placeholder.com/250x150.png?text=Alt/Ust+Analizi" width="30%">
-  <img src="https://via.placeholder.com/250x150.png?text=Korner+Tahminleri" width="30%">
-  <img src="https://via.placeholder.com/250x150.png?text=Taraf+Bahsi" width="30%">
+  <img src="mics/3.png" alt="Özellik 1" width="45%">
+  <img src="mics/4.png" alt="Özellik 2" width="45%">
 </div>
 
 <br />
